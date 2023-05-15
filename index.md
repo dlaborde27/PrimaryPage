@@ -1,1 +1,4 @@
-
+# SKILLS
+* Java
+* Python
+* MySql
