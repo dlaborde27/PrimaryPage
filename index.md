@@ -1,5 +1,13 @@
 # SKILLS
+## Base Programing Language
 * Java
-  * ddd
+  * Java SE
 * Python
 * MySql
+
+## Frameworks
+### Java
+* Spring
+* Spring Boot
+### Phython
+** Anaconda
