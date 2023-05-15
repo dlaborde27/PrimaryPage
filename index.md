@@ -1,4 +1,4 @@
-# SKILLS
+# Skills
 ## Programming Languages
 * Java
 * Python
@@ -13,3 +13,7 @@
 * Anaconda
 ### JavaScript
 * Express.js
+
+# Proyects
+## Java
+* [Catálogo de Videojuegos](https://github.com/dlaborde27/CatalogoDeVideojuegos)
