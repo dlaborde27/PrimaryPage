@@ -4,7 +4,6 @@
   * Java SE
 * Python
 * MySql
-
 ## Frameworks
 ### Java
 * Spring
