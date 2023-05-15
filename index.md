@@ -1,12 +1,15 @@
 # SKILLS
-## Base Programing Language
+## Programming Languages
 * Java
-  * Java SE
 * Python
+* C#
+* JavaScript
 * MySql
 ## Frameworks
 ### Java
 * Spring
 * Spring Boot
-### Phython
-** Anaconda
+### Python
+* Anaconda
+### JavaScript
+* Express.js
